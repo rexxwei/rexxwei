@@ -1,5 +1,5 @@
 <h2 align="center">👋 Hi, this is Kaiyuan</h2>
-<h3 align="center">I am Kaiyuan Wei (or Rexx), a passionate AI/ML/DS developer</h3>
+<h4 align="left">I am Kaiyuan Wei (or Rexx), a passionate AI/ML/DS developer</h4>
 
 - 👨‍💻 Most my projects are demo on my [Portfolio Page](https://rexxwei.github.io/portfolio/)
 - 💬 Ask me about **Machine Learning, Data Analytic, Data Engineering**
