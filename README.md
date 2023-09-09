@@ -3,7 +3,7 @@
 
 - 👨‍💻 Most my projects are demo on my [Portfolio Page](https://rexxwei.github.io/portfolio/)
 - 💬 Ask me about **Machine Learning, Data Analytic, Data Engineering**
-- 📄 Know about me at [my page](https://rexxwei.github.io/aboutme/) or my [LinkedIn](https://www.linkedin.com/in/kaiyuan-wei-563753209/)
+- 📄 Know about me at [my page](https://rexxwei.github.io/rexxwei/) or my [LinkedIn](https://www.linkedin.com/in/kaiyuan-wei-563753209/)
 - 📫 Or reach me at **rexxwei@outlook.com**
 
 <p align="left">
